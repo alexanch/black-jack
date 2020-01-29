@@ -4,4 +4,4 @@
 
 ### Notes:
 * Personal Python Cheat Sheet: [[Code]](https://github.com/alexanch/python-cheat-sheet)
-* Implemented in Python for [Python Bootcamp course by ](https://www.udemy.com/course/complete-python-bootcamp/).
+* Implemented in Python for [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/).
