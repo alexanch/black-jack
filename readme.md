@@ -4,5 +4,5 @@
 * Black Jack implementation 
 
 
-*** Notes:
+### Notes:
 Implemented in Python for [Python Bootcamp course by ](https://www.udemy.com/course/complete-python-bootcamp/).
