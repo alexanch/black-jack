@@ -1,1 +1,1 @@
-A classic Tic-Tac-Toe game implemented in #python for Python Bootcamp course.
+### A classic Tic Tac Toe and Black Jack games implemented in Python for Python Bootcamp course.
