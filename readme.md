@@ -6,4 +6,4 @@
 * Personal Python Cheat Sheet: [[Code]](https://github.com/alexanch/python-cheat-sheet)
 * Implemented in Python for [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Falexanch%2Fpy-bootcamp/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexanch/py-bootcamp/9197ea4d1811204df322f1886491e1ffe98fa402)
